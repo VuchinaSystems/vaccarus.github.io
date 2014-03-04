@@ -6,9 +6,9 @@ tagline: this is where the words go
 {% include JB/setup %}
 
 
-## Hey there ...
+## Hey there,
 
-There's a pic of my dog Mosley.
+That's a pic of my dog Mosley.
 
 And here's a list of some recent posts:
 
